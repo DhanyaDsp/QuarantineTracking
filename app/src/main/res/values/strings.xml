@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuarantineTracking</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="emergency_contact_number">Emergency Contact Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_date_of_birth">Select Date of Birth</string>
+    <string name="local_police_station">Local Police Station</string>
+    <string name="locality">Locality</string>
+    <string name="register">Register</string>
+</resources>
